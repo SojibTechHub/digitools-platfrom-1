@@ -1,22 +1,54 @@
-# 🚀 DigiTools - Digital Tools Platform
+<div align="center">
 
-## 📌 Project Description
-DigiTools is a modern digital tools platform where users can explore premium tools, add them to cart, and manage purchases easily. The UI is designed based on Figma and fully responsive.
+# 🛠️ DigiTools Platform
 
-## ⚙️ Technologies Used
-- React.js
-- Tailwind CSS
-- DaisyUI
-- JavaScript (ES6+)
-- React Toastify
+### *Premium Digital Tools Marketplace*
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+
+</div>
+
+---
+
+## 📖 Overview
+
+A digital tools platform where users can browse premium tools, add to cart, and manage purchases. Built with React and Tailwind CSS.
+
+---
 
 ## ✨ Features
-1. Add to cart functionality with live cart count in navbar
-2. Remove products and checkout system with toast notifications
-3. Responsive UI based on Figma design
 
-## 🔗 Live Link
-(Add your live site link here)
+| Feature | Description |
+|---------|-------------|
+| 🛒 **Shopping Cart** | Add/remove products with live count |
+| 💰 **Checkout** | Secure checkout system |
+| 🔔 **Notifications** | Toast notifications |
+| 📱 **Responsive** | Mobile-first design |
 
-## 📂 GitHub Repo
-(Add your repo link here)
+---
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/sojibahmedshorif25-ai/digitools-platfrom-1.git
+npm install
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+**Sojib Ahmed**
+
+[![GitHub](https://img.shields.io/badge/GitHub-sojibahmedshorif25--ai-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sojibahmedshorif25-ai)
+
+---
+
+<div align="center">
+
+**⭐ Star this repo if you find it impressive!**
+
+</div>
